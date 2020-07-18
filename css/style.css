@@ -1,0 +1,18 @@
+body{background-color:seashell}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color:maroon;
+  border-width: thick;
+  width: 315px;
+}
+h1{font-style: italic;;
+color: maroon; }
+h3{font-weight: bold;
+color: maroon; }
+.yes {
+  background-color: green
+}
+.no {
+  background-color:red
+}
